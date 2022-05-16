@@ -1,0 +1,21 @@
+{
+  "name": "Swimmer Network Mainnet",
+  "chain": "Swimmer",
+  "rpc": [
+    "https://avax-cra.gateway.pokt.network/v1/lb/627e246225a687003a6a13b7/ext/bc/2K33xS9AyP9oCDiHYKVrHe7F54h2La5D8erpTChaAhdzeSu2RX/rpc"
+  ],
+  "nativeCurrency": {
+    "name": "Treasure Under Sea",
+    "symbol": "TUS",
+    "decimals": 18
+  },
+  "infoURL": "docs.crabada.com",
+  "shortName": "TUS",
+  "chainId": 73772,
+  "networkId": 73772,
+  "explorers": [{
+    "name": "Avascan",
+    "url": "https://avascan.info/blockchain/swimmer/txs",
+    "standard": "EIP3091"
+  }]
+}
